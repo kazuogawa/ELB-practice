@@ -1,4 +1,4 @@
-name := """play-scala-seed-sample"""
+name := """ELB-practice"""
 
 version := "1.0-SNAPSHOT"
 
